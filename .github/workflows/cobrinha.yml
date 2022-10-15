@@ -20,7 +20,7 @@ Latest commit 0c38c9a on 13 Oct 2021
  1 contributor
 25 lines (22 sloc)  583 Bytes
 
-name: Cobrinha
+name: cobrinha
 
 on:
   schedule: # execute every 12 hours

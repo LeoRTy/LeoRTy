@@ -26,6 +26,7 @@
 <a href="https://www.linkedin.com/in/leonardo-teixeira-3244a6143/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:leo.tex@yahoo.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "https://wa.me/5511996371259"><img src="https://img.shields.io/badge/-whatsapp-%23333?style=for-the-badge&logo=whatsapp&logoColor=brightgreen" target="_blank"></a>
+<a href = "https://leorty.github.io/mini-portfolio-dev/"><img src="https://img.shields.io/badge/Portif%C3%B3lio-gray" target="_blank"></a>
   
  
  

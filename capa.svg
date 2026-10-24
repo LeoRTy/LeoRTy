@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#040914"/>
+      <stop offset="0.55" stop-color="#091733"/>
+      <stop offset="1" stop-color="#0c2248"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.88" cy="0" r="0.6">
+      <stop offset="0" stop-color="#1550a0" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#1550a0" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4aa8ff"/>
+      <stop offset="0.45" stop-color="#7cc4ff"/>
+      <stop offset="1" stop-color="#2ee6b6"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#78aaff" stroke-opacity="0.06"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <rect width="1280" height="320" fill="url(#glow)"/>
+  <rect width="1280" height="320" fill="url(#grid)"/>
+  <g stroke="#5fb3ff" stroke-opacity="0.3" stroke-width="1.2" fill="none">
+    <path d="M30 60 L150 35 L250 95 L350 50 L410 125"/>
+    <path d="M150 35 L190 145 L250 95"/>
+    <path d="M45 195 L190 145 L290 210 L380 175"/>
+    <path d="M290 210 L250 285 L120 275 L45 195"/>
+  </g>
+  <g fill="#5fb3ff">
+    <circle cx="30" cy="60" r="3"/><circle cx="150" cy="35" r="4"/><circle cx="250" cy="95" r="4.5"/>
+    <circle cx="350" cy="50" r="3"/><circle cx="410" cy="125" r="3.5"/><circle cx="190" cy="145" r="5.5"/>
+    <circle cx="45" cy="195" r="3"/><circle cx="290" cy="210" r="4"/><circle cx="380" cy="175" r="3"/>
+    <circle cx="250" cy="285" r="3"/><circle cx="120" cy="275" r="3.5"/>
+  </g>
+  <g font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif">
+    <text x="460" y="128" font-size="66" font-weight="800" fill="#eef4fc" letter-spacing="-1.5">TI de <tspan fill="url(#txt)">ponta a ponta</tspan></text>
+    <rect x="462" y="150" width="100" height="4" rx="2" fill="url(#txt)"/>
+    <g font-size="17" font-weight="700" fill="#e6f1ff">
+      <g transform="translate(460,178)">
+        <rect width="180" height="42" rx="10" fill="#4aa8ff" fill-opacity="0.1" stroke="#4aa8ff" stroke-opacity="0.4"/><text x="90" y="27" text-anchor="middle">Firewall</text>
+        <rect x="192" width="180" height="42" rx="10" fill="#4aa8ff" fill-opacity="0.1" stroke="#4aa8ff" stroke-opacity="0.4"/><text x="282" y="27" text-anchor="middle">Redes</text>
+        <rect x="384" width="180" height="42" rx="10" fill="#4aa8ff" fill-opacity="0.1" stroke="#4aa8ff" stroke-opacity="0.4"/><text x="474" y="27" text-anchor="middle">Servidores</text>
+        <rect x="576" width="180" height="42" rx="10" fill="#4aa8ff" fill-opacity="0.1" stroke="#4aa8ff" stroke-opacity="0.4"/><text x="666" y="27" text-anchor="middle">Windows</text>
+      </g>
+      <g transform="translate(460,232)">
+        <rect width="180" height="42" rx="10" fill="#4aa8ff" fill-opacity="0.1" stroke="#4aa8ff" stroke-opacity="0.4"/><text x="90" y="27" text-anchor="middle">Linux</text>
+        <rect x="192" width="180" height="42" rx="10" fill="#4aa8ff" fill-opacity="0.1" stroke="#4aa8ff" stroke-opacity="0.4"/><text x="282" y="27" text-anchor="middle">Hyper-V</text>
+        <rect x="384" width="180" height="42" rx="10" fill="#4aa8ff" fill-opacity="0.1" stroke="#4aa8ff" stroke-opacity="0.4"/><text x="474" y="27" text-anchor="middle">ERP</text>
+        <rect x="576" width="180" height="42" rx="10" fill="#4aa8ff" fill-opacity="0.1" stroke="#4aa8ff" stroke-opacity="0.4"/><text x="666" y="27" text-anchor="middle">Automação</text>
+      </g>
+    </g>
+  </g>
+  <rect y="314" width="1280" height="6" fill="url(#txt)"/>
+</svg>

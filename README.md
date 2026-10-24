@@ -1,12 +1,12 @@
 <img src="./capa.svg" alt="TI de ponta a ponta" width="100%">
 
-## Olá, eu sou o Leonardo 👨🏻‍💻
+## Olá, eu sou o Leonardo
 
 **Analista de TI** em Itatiba-SP. Cuido da operação de TI de ponta a ponta: servidores, rede, segurança, Microsoft 365, ERP TOTVS Protheus, service desk e automação.
 
 Venho da logística e da produção industrial, então olho para a TI como ferramenta de negócio: **encontrar o gargalo, medir e automatizar**.
 
-### 🧰 Áreas e tecnologias
+### Áreas e tecnologias
 
 **Infraestrutura**<br>
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -47,14 +47,14 @@ Venho da logística e da produção industrial, então olho para a TI como ferra
   <img align="center" alt="GIT" height="30" width="40" src="https://i.imgur.com/ieDZbr9.png" title="Git">
 </div>
 
-### 🚀 Destaques
+### Destaques
 
 - Assistente de IA corporativo em produção, integrado aos dados do ERP
 - Pipeline de dados do Protheus reescrito em Python, com o tempo de processamento reduzido pela metade
 - Implementação do GLPI 11 em todos os departamentos
 - Apps em Power Platform para campo, recebimento e RH
 
-### 📊 GitHub
+### GitHub
 
 <div>
   <a href="https://github.com/LeoRTy">
@@ -63,7 +63,7 @@ Venho da logística e da produção industrial, então olho para a TI como ferra
   </a>
 </div>
 
-### 📫 Onde me encontrar
+### Onde me encontrar
 
 <a href="https://leorty.github.io/Portfolio-dev/"><img src="https://img.shields.io/badge/Portfólio-0A1830?style=for-the-badge&logo=githubpages&logoColor=4AA8FF"></a>
 <a href="https://www.linkedin.com/in/leonardo-teixeira-3244a6143/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
